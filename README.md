@@ -13,7 +13,7 @@ The datsets used for benchmarking are in ….
 ## Directory Structure
     .
     └── src                    # Source Directory
-        ├── Neural_Nets           # Neural Nets Scripts Directory
+        └── Neural_Nets           # Neural Nets Scripts Directory
               └── mdls                # Models Directory   
                    └──json               # Neural Nets Json
         
