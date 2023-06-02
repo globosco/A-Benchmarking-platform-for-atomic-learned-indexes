@@ -8,7 +8,7 @@ We include:
   
 * 3 [Neural Networks](https://github.com/DomenicoAmato01/A-Benchmarking-Platform-for-Atomic-Learned-Indexes/tree/master/src/Neural_Nets) with different number of layers  
 
-The datsets used for benchmarking are in http://math.unipa.it/lobosco/NNLI/
+The datsets used for benchmarking can be downloaded [here](https://osf.io/ernyh/?view_only=ef751aaced30438397d90dee2a154747).
   
 ## Directory Structure
     .
