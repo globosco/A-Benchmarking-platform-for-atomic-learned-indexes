@@ -23,7 +23,34 @@ The datsets used for benchmarking can be downloaded [here](https://osf.io/ernyh/
  All implementation and execution details are provided inside the source directory.  
  The code provided here presents different execution scenarios, including GPU Cuda Cores and Tensor Core
  
- ## Bibliography
- [1] Hanin, B. and Sellke, M. (2017). Approximating continuous functions by ReLU nets of minimal
+ 
+ ## Cite
+
+If you use this benchmark in your own work, please cite us:
+
+```
+
+@InProceedings{10.1007/978-3-031-08223-8_10,
+ author="Amato, Domenico and Lo Bosco, Giosu{\'e} and Giancarlo, Raffaele",
+ title="On the Suitability of Neural Networks as Building Blocks for the Design of Efficient Learned Indexes",
+ booktitle="Engineering Applications of Neural Networks",
+ year="2022",
+ publisher="Springer International Publishing",
+ address="Cham",
+ pages="115--127",
+ isbn="978-3-031-08223-8"
+}
+
+@misc{amato2022standard,
+      title={On the Suitability of Neural Networks as Building Blocks for the Design of Efficient Learned Indexes}, 
+      author={Domenico Amato and Giosuè Lo Bosco and Raffaele Giancarlo},
+      year={2022},
+      eprint={2203.14777},
+      archivePrefix={arXiv},
+      primaryClass={cs.DS}
+}
+ 
+## Bibliography
+[1] Hanin, B. and Sellke, M. (2017). Approximating continuous functions by ReLU nets of minimal
 width. arXiv preprint arXiv:1710.11278.
 
